@@ -9,7 +9,7 @@ In the field of AI and Data Science.
 Python and C++.
 
 📫 **How to reach me:**  
-Feel free to [email me](mailto:manan.ghumman19@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/manan-ghumman).
+Feel free to [email me](mailto:manan.ghumman19@gmail.com).
 
 ⚡ **Fun fact:**  
 I Love riding bike and solving complex problems.
