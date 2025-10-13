@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**  
-Enhancing my skills and exploring diffrent tech.
+Enhancing my skills and exploring different tech.
 
 👯 **I’m looking to collaborate on:**  
 In the field of AI and Data Science.
